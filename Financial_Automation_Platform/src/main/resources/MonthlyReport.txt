@@ -1,0 +1,4 @@
+Coffee,false,100,150
+Bread,true,50,20
+Milk,false,200,50
+Office Supplies,true,5,500
